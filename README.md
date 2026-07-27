@@ -62,12 +62,7 @@ python app.py
 http://127.0.0.1:5000
 ```
 
-## 📸 Screenshots
-Add screenshots of:
-- Home page
-- Resume analysis result
-- Matched & Missing Skills
-- Resume Suggestions
+
 
 ## 🔮 Future Improvements
 - DOCX resume support
